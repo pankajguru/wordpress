@@ -5,7 +5,7 @@
  *
  * @package WordPress
  */
-#Pankaj kumar
+#Pankaj kumar My name is khan
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
